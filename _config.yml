@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: CV Book Homepage
-description: This is the homepage pf CV Book
+theme: jekyll-theme-slate
+title: 计算机视觉理论与实践
+description: 本网站是计算机视觉理论与实践教材的配套网站
+show_downloads: false
